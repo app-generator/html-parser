@@ -4,4 +4,4 @@
 
 <br />
 
-[Html parser](https://appseed.us/developer-tools/html-parser) a **developer tool** provided by **AppSeed**
+[Html parser](https://appseed.us/developer-tools/html-parser) **tool** provided by **AppSeed**
