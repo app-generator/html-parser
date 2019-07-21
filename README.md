@@ -5,7 +5,7 @@ Read more about this cutting-edge <a href="https://appseed.us/developer-tools/ht
 
 <br />
 
-## HTML Parser Features
+## [Html parser](https://appseed.us/developer-tools/html-parser) Features
  
 The goal for this parser is to cut the manual work for the cases listed below:
  
@@ -14,7 +14,7 @@ The goal for this parser is to cut the manual work for the cases listed below:
 
 <br />
 
-## HTML Parser Work-flow
+## [Html parser](https://appseed.us/developer-tools/html-parser) Work-flow
 
 In ordet to speed up the web development, the HTML parser, provided by **AppSeed** execute the steps:
 
@@ -26,13 +26,13 @@ In ordet to speed up the web development, the HTML parser, provided by **AppSeed
 
 <br />
 
-## HTML Parser Technology
+## [Html parser](https://appseed.us/developer-tools/html-parser) Technology
 
 The parser is written in Python3 / Beautiful Soup4 as an interactive console. 
 
 <br />
 
-## HTML Parser DEMOs
+## [Html parser](https://appseed.us/developer-tools/html-parser) DEMOs
 
 Short list with HTML Parser demos
 
