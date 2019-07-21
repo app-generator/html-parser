@@ -21,7 +21,7 @@ In ordet to speed up the web development, the HTML parser, provided by **AppSeed
  - load the HTML theme / page
  - user can interactively walk on HTML tree
  - user can edit the elements and properties 
- - sections (componensts) can be extracted for various template engines: Jinja2, Blade, Php and PUG 
+ - sections (components) can be extracted for various template engines: Jinja2, Blade, Php and PUG 
  - save processed html with mutated structure
 
 <br />
