@@ -1,6 +1,6 @@
 # Html parser
 
-Interactive tool to convert flat HTML to <a href="https://pugjs.org/api/getting-started.html">Pug</a> templates. 
+Interactive tool to convert flat HTML to <a href="https://pugjs.org/api/getting-started.html">Pug</a>, Jinja2 and Blade templates. 
 
 <br />
 
