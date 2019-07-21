@@ -12,6 +12,8 @@ The goal for this parser is to cut the manual work for the cases listed below:
   - Build production-ready components and templates for various template engines (PUG, Jinja2, Blade) starting from flat HTML themes
   - Remove hard-coded strings used by template HTML themes 
 
+<br />
+
 ## HTML Parser Work-flow
 
 In ordet to speed up the web development, the HTML parser, provided by **AppSeed** execute the steps:
@@ -22,9 +24,13 @@ In ordet to speed up the web development, the HTML parser, provided by **AppSeed
  - sections (componensts) can be extracted for various template engines: Jinja2, Blade, Php and PUG 
  - save processed html with mutated structure
 
+<br />
+
 ## HTML Parser Technology
 
 The parser is written in Python3 / Beautiful Soup4 as an interactive console. 
+
+<br />
 
 ## HTML Parser DEMO
 
