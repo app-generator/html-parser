@@ -32,9 +32,17 @@ The parser is written in Python3 / Beautiful Soup4 as an interactive console.
 
 <br />
 
-## HTML Parser DEMO
+## HTML Parser DEMOs
 
-@coming soon
+Short list with HTML Parser demos
+
+### [Automatic HTML Parser](https://www.youtube.com/watch?v=j1QtDfYlEYU) - www.3w1.website
+
+[Short presentation](https://www.youtube.com/watch?v=j1QtDfYlEYU) of the parsing tool used by AppSeed to integrate in minutes an HTML theme. 
+
+### [Automatic HTML Parser](https://www.youtube.com/watch?v=CnO1AozqyPA) - random theme from Colorlib
+
+Short presentation of the [HTML Parsing tool](https://www.youtube.com/watch?v=CnO1AozqyPA) used by AppSeed to integrate in minutes an HTML theme. 
 
 <br />
 
