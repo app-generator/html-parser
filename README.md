@@ -1,4 +1,4 @@
-# Html parser
+# [HTML parser](https://appseed.us/developer-tools/html-parser)
 
 Interactive tool to convert flat HTML to <a href="https://pugjs.org/api/getting-started.html">Pug</a>, Jinja2 and Blade templates. 
 
@@ -12,7 +12,7 @@ Interactive tool to convert flat HTML to <a href="https://pugjs.org/api/getting-
 
 <br />
 
-## Html parser Features
+## [HTML parser](https://appseed.us/developer-tools/html-parser) Features
  
 The goal for this parser is to cut the manual work for the cases listed below:
  
@@ -21,7 +21,7 @@ The goal for this parser is to cut the manual work for the cases listed below:
 
 <br />
 
-## Html parser Work-flow
+## [HTML parser](https://appseed.us/developer-tools/html-parser) Work-flow
 
 In ordet to speed up the web development, the HTML parser, provided by **AppSeed** execute the steps:
 
@@ -33,13 +33,13 @@ In ordet to speed up the web development, the HTML parser, provided by **AppSeed
 
 <br />
 
-## Html parser Technology
+## [HTML parser](https://appseed.us/developer-tools/html-parser) Technology
 
 The parser is written in Python3 / Beautiful Soup4 as an interactive console. 
 
 <br />
 
-## Html parser DEMOs
+## [HTML parser](https://appseed.us/developer-tools/html-parser) DEMOs
 
 Short list with HTML Parser demos
 
