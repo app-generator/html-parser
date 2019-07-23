@@ -58,6 +58,90 @@ The sample, extracted from [Stellar HTML5Up theme](https://github.com/app-genera
   - [JSON descriptor](https://github.com/app-generator/html-parser/blob/master/sample-stellar/components/nav.json)
   
 <br />
+**HTML**
+```
+<nav id="nav">
+ <ul>
+  <li>
+   <a class="active newclass" href="https://appseed.us/html-parser">
+    Introduction
+   </a>
+  </li>
+  <li>
+   <a href="#first">
+    First Section
+   </a>
+  </li>
+  <li>
+   <a href="#second">
+    Second Section
+   </a>
+  </li>
+  <li>
+   <a href="#cta">
+    Get Started
+   </a>
+  </li>
+ </ul>
+</nav>
+```
+
+<br />
+**PUG**
+```
+nav#nav
+  ul
+    li
+      a.active.newclass(href='https://appseed.us/html-parser').
+        
+        Introduction
+        
+    li
+      a(href='#first').
+        
+        First Section
+        
+    li
+      a(href='#second').
+        
+        Second Section
+        
+    li
+      a(href='#cta').
+        
+        Get Started
+```
+
+<br />
+**PHP**
+```
+<nav id="nav">
+ <ul>
+  <li>
+   <a class="active newclass" href="https://appseed.us/html-parser">
+    <?php echo $var_1?>
+   </a>
+  </li>
+  <li>
+   <a href="#first">
+    <?php echo $var_2?>
+   </a>
+  </li>
+  <li>
+   <a href="#second">
+    <?php echo $var_3?>
+   </a>
+  </li>
+  <li>
+   <a href="#cta">
+    <?php echo $var_4?>
+   </a>
+  </li>
+ </ul>
+</nav>
+```
+
+<br />
 
 ## Projects built with this tool 
 
