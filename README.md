@@ -57,37 +57,7 @@ The sample, extracted from [Stellar HTML5Up theme](https://github.com/app-genera
   - [Php version](https://github.com/app-generator/html-parser/blob/master/sample-stellar/components/nav.php)
   - [JSON descriptor](https://github.com/app-generator/html-parser/blob/master/sample-stellar/components/nav.json)
   
-<br />
-**HTML**
-```html
-<nav id="nav">
- <ul>
-  <li>
-   <a class="active newclass" href="https://appseed.us/html-parser">
-    Introduction
-   </a>
-  </li>
-  <li>
-   <a href="#first">
-    First Section
-   </a>
-  </li>
-  <li>
-   <a href="#second">
-    Second Section
-   </a>
-  </li>
-  <li>
-   <a href="#cta">
-    Get Started
-   </a>
-  </li>
- </ul>
-</nav>
-```
 
-<br />
-**PUG**
 ```yaml
 nav#nav
   ul
@@ -112,8 +82,7 @@ nav#nav
         Get Started
 ```
 
-<br />
-**PHP**
+
 ```php
 <nav id="nav">
  <ul>
