@@ -133,7 +133,7 @@ All are open-source, with live DEMO.
 
 ## License & Usage
  
-**The tool is not open-source**. For licenses, please contact [AppSeed](https://appseed.us/) - **support [ @ ] appseed.us**
+**The tool is not open-source**. For licenses, please contact [AppSeed](https://appseed.us/?ref=html-parser) - **support [ @ ] appseed.us**
 
 <br />
 
