@@ -58,6 +58,8 @@ The sample, extracted from [Stellar HTML5Up theme](https://github.com/app-genera
   - [JSON descriptor](https://github.com/app-generator/html-parser/blob/master/sample-stellar/components/nav.json)
   
 
+### Pug version
+
 ```yaml
 nav#nav
   ul
@@ -82,6 +84,9 @@ nav#nav
         Get Started
 ```
 
+<br />
+
+### PHP version
 
 ```php
 <nav id="nav">
