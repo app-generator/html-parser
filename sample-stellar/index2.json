@@ -1,0 +1,45 @@
+{
+    "css": [
+        "/assets/css/main.css",
+        "/assets/css/noscript.css"
+    ],
+    "css_raw": [
+        "assets/css/main.css",
+        "assets/css/noscript.css"
+    ],
+    "file": "C:\\hack-land\\html-parser\\sample-stellar\\index.html",
+    "img": [
+        "/assets/img/logo.svg",
+        "/assets/img/pic01.jpg"
+    ],
+    "img_raw": [
+        "images/logo.svg",
+        "images/pic01.jpg"
+    ],
+    "js": [
+        "/assets/js/jquery.min.js",
+        "/assets/js/jquery.scrollex.min.js",
+        "/assets/js/jquery.scrolly.min.js",
+        "/assets/js/browser.min.js",
+        "/assets/js/breakpoints.min.js",
+        "/assets/js/util.js",
+        "/assets/js/main.js"
+    ],
+    "js_raw": [
+        "assets/js/jquery.min.js",
+        "assets/js/jquery.scrollex.min.js",
+        "assets/js/jquery.scrolly.min.js",
+        "assets/js/browser.min.js",
+        "assets/js/breakpoints.min.js",
+        "assets/js/util.js",
+        "assets/js/main.js"
+    ],
+    "lang": "en",
+    "strings": {
+        "var_1": "Introduction",
+        "var_2": "First Section",
+        "var_3": "Second Section",
+        "var_4": "Get Started"
+    },
+    "strings_info": {}
+}
