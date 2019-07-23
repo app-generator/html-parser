@@ -59,7 +59,7 @@ The sample, extracted from [Stellar HTML5Up theme](https://github.com/app-genera
   
 <br />
 **HTML**
-```
+```html
 <nav id="nav">
  <ul>
   <li>
@@ -88,7 +88,7 @@ The sample, extracted from [Stellar HTML5Up theme](https://github.com/app-genera
 
 <br />
 **PUG**
-```
+```yaml
 nav#nav
   ul
     li
@@ -114,7 +114,7 @@ nav#nav
 
 <br />
 **PHP**
-```
+```php
 <nav id="nav">
  <ul>
   <li>
