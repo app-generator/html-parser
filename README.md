@@ -57,7 +57,8 @@ The sample, extracted from [Stellar HTML5Up theme](https://github.com/app-genera
   - [Php version](https://github.com/app-generator/html-parser/blob/master/sample-stellar/components/nav.php)
   - [JSON descriptor](https://github.com/app-generator/html-parser/blob/master/sample-stellar/components/nav.json)
   
- 
+<br />
+
 ## Projects built with this tool 
 
 All are open-source, with live DEMO. 
@@ -69,7 +70,13 @@ All are open-source, with live DEMO.
   - [Flask Dashboard Black](https://github.com/app-generator/flask-black-dashboard) - Open-Source Admin Panel
   - [Flask Dashboard Argon](https://github.com/app-generator/flask-argon-dashboard) - Open-Source Admin Panel
   - [Flask Dashboard Light](https://github.com/app-generator/flask-dashboard-light-bootstrap) - Open-Source Admin Panel
-  
-## HTML parser Technology
+
+<br />
+
+## License & Usage
+ 
+**The tool is not open-source**. For licenses, please contact [AppSeed](https://appseed.us/) - **support [ @ ] appseed.us**
+
+<br />
 
 [Html parser](https://appseed.us/?ref=html-parser) **tool** provided by **AppSeed**
