@@ -137,4 +137,4 @@ All are open-source, with live DEMO.
 
 <br />
 
-[Html parser](https://appseed.us/?ref=html-parser) **tool** provided by **AppSeed**
+[Html parser](https://appseed.us/developer-tools/html-parser) **tool** provided by **AppSeed**
