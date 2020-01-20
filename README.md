@@ -1,6 +1,12 @@
-# [HTML parser](https://appseed.us/?ref=html-parser)
+# [HTML parser](https://appseed.us/developer-tools/html-parser)
 
 Interactive tool to convert flat HTML (themes or stand-alone files) to <a href="https://pugjs.org/api/getting-started.html">Pug</a>, <a href="http://jinja.pocoo.org/docs/2.10/">Jinja2</a> and <a href="https://laravel.com/docs/5.8/blade">Blade</a> templates. 
+
+<br />
+
+## What is an HTML Parser
+
+According to Wikipedia, Parsing or syntactic analysis is the process of analyzing a string of symbols, either in natural language or in computer languages, according to the rules of a formal grammar. The meaning of HTML parsing applied here consist into load the HTML, extract and process the relevant information like head title, page assets, main sections and later on, save the processed file.
 
 <br />
 
@@ -137,4 +143,5 @@ All are open-source, with live DEMO.
 
 <br />
 
-[Html parser](https://appseed.us/developer-tools/html-parser) **tool** provided by **AppSeed**
+---
+[HTML parser](https://appseed.us/developer-tools/html-parser) **tool** provided by **AppSeed**
